@@ -2,7 +2,6 @@ package handlers
 
 import (
 	"database/sql"
-	_ "database/sql"
 	"encoding/json"
 	"errors"
 	"github.com/gorilla/mux"
